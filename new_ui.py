@@ -1,5 +1,5 @@
 import pandas as pd
-from scit-learn import linear_model
+from scikit-learn import linear_model
 import streamlit as st
 from itertools import combinations
 import itertools
